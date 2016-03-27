@@ -6,7 +6,7 @@
 |_| |_| |_|\__,_|_|\_|_|_| |_|\__, |   \_/ |_|    |___/\__|\__,_|_|\__,_|  \___|\__,_|___/\__, |
                               |___/                                                       |___/ 
 </pre>
-# generator-cardboardVR [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
+# generator-cardboardVR
 > cardboarVR scaffolding
 
 What does this do for me?  BabylonJS or ThreeJS rapid prototyping with Ionic2, angularJS2! VR made stupid easy! 
