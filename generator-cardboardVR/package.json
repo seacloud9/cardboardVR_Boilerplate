@@ -1,0 +1,33 @@
+{
+  "name": "generator-cardboardVR",
+  "version": "0.0.0",
+  "description": "catamranHx scaffolding",
+  "homepage": "",
+  "author": {
+    "name": "Brendon Smith",
+    "email": "brendonsmith@seacloud9.org",
+    "url": ""
+  },
+  "files": [
+    "generators"
+  ],
+  "main": "generators/index.js",
+  "keywords": [
+    ""
+  ],
+
+  "dependencies": {
+    "gulp": "^3.9.0",
+    "gulp-compass": "2.1.0",
+    "run-sequence": "1.1.1",
+    "gulp-eslint": "^1.0.0",
+    "gulp-exclude-gitignore": "^1.0.0",
+    "gulp-istanbul": "^0.10.3",
+    "gulp-mocha": "^2.0.0",
+    "gulp-plumber": "^1.0.0",
+    "gulp-exec": "^2.1.2",
+    "gulp-nsp": "^2.1.0",
+    "mkdirp": "^0.5.1"
+  }
+
+}
