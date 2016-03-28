@@ -126,3 +126,12 @@ cardboardgl, #renderCanvas {
 .ion-loop{
   font-size:50px;
 }
+
+.bar-positive{
+  padding: 5px;
+}
+.title button{
+  float: right;
+  padding: 0px !important;
+  margin: 5px !important;
+}
